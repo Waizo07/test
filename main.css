@@ -22,9 +22,9 @@ header{
     place-items: center;
     padding-bottom:1em; 
     background-color: #D2C8AA;
-    font-size: 2.7em;
+    font-size: 2.3em;
     border-radius: 2em;
-    width: 95%;
+    width: 90%;
     h2{
         margin-top: 0.5em;
     }
@@ -48,11 +48,12 @@ background-color: #D2C8AA;
 margin-top: 1em;
 border-radius: 2%;
 display: none;
-width: 95%;
+width: 90%;
+border-collapse: collapse;
 tr, th, td{
     border: 1px solid black;
     padding: 1em;
-    font-size: 1em;
+    font-size: 1.1em;
 }
 th{
     background-color: #f67103;

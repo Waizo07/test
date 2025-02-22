@@ -24,7 +24,7 @@ header{
     background-color: #D2C8AA;
     font-size: 3em;
     border-radius: 2em;
-    width: 75%;
+    width: 90%;
     h2{
         margin-top: 0.5em;
     }
@@ -48,7 +48,7 @@ background-color: #D2C8AA;
 margin-top: 1em;
 border-radius: 2%;
 display: none;
-width: 75%;
+width: 90%;
 tr, th, td{
     border: 1px solid black;
     padding: 1em;
